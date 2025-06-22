@@ -30,6 +30,6 @@ Este projeto reforça conhecimentos nas seguintes áreas:
 
 ---
 
-## 📂 Estrutura do Projeto
+
 
 
