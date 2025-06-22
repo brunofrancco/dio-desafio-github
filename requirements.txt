@@ -1,0 +1,8 @@
+### `requirements.txt`
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
